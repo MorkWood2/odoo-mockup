@@ -14,4 +14,4 @@
 - Responsive Design 
 - Created unique icons in Sketch vector editing software and mockups
 - Made in HTML, CSS, Javascript/JQuery 
-- Navbar Animation on Scroll and dropdown with dropdown functionality (dropdown design unfinished)
+- Navbar Animation on Scroll with dropdown functionality (dropdown design unfinished)
